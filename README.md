@@ -30,3 +30,8 @@ It displays traffic lights, animations, roads, and basic movement using SFML gra
 │ └── sounds/
 ├── traffic.exe
 └── README.md
+## Lisence
+
+---
+
+If you want, I can also generate a **beautiful README with badges, logo, screenshots, and a banner**.
